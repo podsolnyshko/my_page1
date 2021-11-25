@@ -1,7 +1,6 @@
 <!DOCTYPE HTML>
 <html lang='ru'>
 <head>
-  <title>Визитка</title>
   <meta charset='UTF-8'/>
 </head>
 <body>
