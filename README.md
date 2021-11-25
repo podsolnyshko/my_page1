@@ -2,14 +2,6 @@
 <html lang='ru'>
 <head>
   <meta charset='UTF-8'/>
-    <style>
- img {
-  border: 3px solid #53da3f;
-}         
-img:hover {
-  border: 3px solid #f26522; 
-}
-  </style>
 </head>
 <body>
 <p>
